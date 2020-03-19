@@ -10,7 +10,7 @@
 
 ## **Formations**
 
-* **_Titre Professionnel developpeur web et mobile => _[Wild code school](https://www.wildcodeschool.com/fr-FR) => En cours_**
+* **_Titre Professionnel developpeur web et mobile => [Wild code school](https://www.wildcodeschool.com/fr-FR) => En cours_**
 
 * **_Titre Professionnel Conducteur Grue à tour => 2017_**
 
