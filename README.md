@@ -18,7 +18,7 @@
  
 * **_Chauffeur Poids Lourd => Legendre(Trappes) / Suez(Montlouis-sur-Loire) => 2013/2020_**
 
-* **_Footballeur => TOURS FC / AVOINE CLUB / US GRANVILLE / FC VERSAILLES / ES VIRY-CHATILLON => 2006/2014
+* **_Footballeur => TOURS FC / AVOINE CLUB / US GRANVILLE / FC VERSAILLES / ES VIRY-CHATILLON => 2006/2014_**
 
 ## Hobbies
 
