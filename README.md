@@ -2,7 +2,7 @@
 
 # BENHARRAT KHALED _[Facebook](https://fr-fr.facebook.com/khaled.benharrat.33)_
 # 34 ans
-# Developpeur Web et Web mobile
+# Developpeur Web et Web mobile (PHP / Symfony)
 
 ## **Présentation**
 
@@ -10,9 +10,15 @@
 
 ## **Formations**
 
-* **_Bac Professionnel métiers de la comptabilité => 2004/2005_**
-* **_Titre Professionnel Chauffeur PL => 2013_**
+* **_Titre Professionnel developpeur web et mobile => _[Wild code school](https://www.wildcodeschool.com/fr-FR) => En cours_**
+
 * **_Titre Professionnel Conducteur Grue à tour => 2017_**
+
+* **_Titre Professionnel Chauffeur PL => 2013_**
+
+* **_Bac Professionnel métiers de la comptabilité => 2004/2005_**
+
+
 
 ## Expérience professionnelle
  
